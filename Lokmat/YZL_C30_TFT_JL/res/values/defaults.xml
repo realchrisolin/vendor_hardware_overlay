@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Natural panel is 480x640. This watch is worn at rotation 270, so a
+         new settings database comes up landscape. Auto-rotate stays off. -->
+    <integer name="def_user_rotation">3</integer>
+</resources>
